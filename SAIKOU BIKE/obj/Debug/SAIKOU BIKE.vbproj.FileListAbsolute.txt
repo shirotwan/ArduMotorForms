@@ -1,0 +1,16 @@
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\SAIKOU BIKE.exe.config
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\SAIKOU BIKE.exe
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\SAIKOU BIKE.pdb
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\SAIKOU BIKE.xml
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.vbproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU_BIKE.Form1.resources
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU_BIKE.Resources.resources
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.vbproj.GenerateResource.cache
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.vbproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.exe
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.xml
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.pdb
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\System.IO.Ports.dll
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\bin\Debug\System.IO.Ports.xml
+C:\Users\Ricardo\source\repos\SAIKOU BIKE\SAIKOU BIKE\obj\Debug\SAIKOU BIKE.vbproj.CopyComplete
