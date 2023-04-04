@@ -8,5 +8,5 @@ Run the VB program and set the COM port.
 # Get started and work
 Create a new user. The program will generate a new password for you.
 IMPORTANT: Remember your user and password, else you won't run the last part of the process or recover it until you close the main form.
-When you accept the msgbox of the new acc. The engine will work once for a few seconds.
+When you accept the msgbox of the new acc, the engine will work once for a few seconds.
 Finally, re-insert your credentials and make it work twice and repeat.
